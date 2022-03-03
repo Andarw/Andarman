@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Andarman
+- 👋 Hi, I’m @Andarw
 - 👀 I’m interested in Python,C,SQL
 - 🌱 I’m currently learning Python,C
-- 💞️ I’m looking to collaborate on ...
+
 
 <!---
 Andarman/Andarman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
